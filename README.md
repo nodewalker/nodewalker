@@ -1,33 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=35&weight=600&duration=3000&pause=1000&vCenter=true&color=4C8EDA&background=15151500&width=435&lines=Evgeny+Smirnov;Js+full+stack+Developer)](https://github.com/mare-viz)
+<h1>👋 Hey, welcome to my page!</h1>
 
-- 🌎 **Dev from Kirov, Russia.**
-- 🔭 **Currently working on JS telegram bots.**
-- 🚹 **Pronounce: He/Him**
+<p>I'm Evgeny, Backend developer from Russia.</p>
 
-## Stack 
-![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![NESTJS](https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestjs)
-![REACTJS](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react)
-![TELEGRAFJS](https://img.shields.io/badge/-TELEGRAF-090909?style=for-the-badge&logo=telegraf)
+<h2>🔧 Technologies & Tools</h2>
+<p>
+    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript" />
+    <img alt="React" src="https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react" />
+    <img alt="Express" src="https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=EXPRESS&logoColor=0FE30D" />
+    <img alt="Fastify" src="https://img.shields.io/badge/-FASTIFY-090909?style=for-the-badge&logo=fastify&logoColor=" />
+    <img alt="Nest" src="https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestjs&logoColor=e93333" />
+    <img alt="Python" src="https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python" />
+    <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=3C9AFF" />
+</p>
 
-![JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=java&logoColor=9c75d5)
-![SPRING](https://img.shields.io/badge/-SPRING-090909?style=for-the-badge&logo=spring&logoColor=512BD4)
+<h2>Find me 🔍</h2>
+<p>
+    <a href="https://www.codewars.com/users/nodewalker">
+        <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=B1361E"/>
+    </a>
+    <a href="https://leetcode.com/nodewalker/">
+        <img alt="Leetcode" src="https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    </a>
+    <a href="https://t.me/weavve">
+        <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+    </a>
+</p>
 
-## Toolchain 
-![Visual Code Insiders](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=21b299)
-
-## Find me 🔍
-[![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/weavv)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/mare-viz/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/weavve)
-
-## Stats 📊
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=mare-viz&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mare-viz&layout=compact&theme=transparent&hide_border=true&langs_count=8)
-
-<a href="https://www.codewars.com/users/weavv">    
-<img style="width: 350px"src="https://github.r2v.ch/codewars?user=weavv&top_languages=true&name=true&theme=gradient" />
-</a>
-
-## Projects 📁
-[![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=mare-viz&repo=color-palette&theme=transparent&hide_border=true)](https://github.com/mare-viz/color-palette)
+<h2>Stats 📊</h2>
+<p>
+    <a href="https://www.codewars.com/users/nodewalker">
+        <img alt="Codewars-stats" src="https://github.r2v.ch/codewars?user=nodewalker&top_languages=true&name=true&theme=gradient"/>
+    </a>
+    <a href="https://leetcode.com/nodewalker/">
+        <img src="https://leetcard.jacoblin.cool/nodewalker?theme=dark&font=Maven%20Pro&ext=heatmap"/>
+    </a>
+</p>
