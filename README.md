@@ -1,6 +1,6 @@
 <h1>👋 Hey, welcome to my page!</h1>
 
-<p>I'm Evgeny, Backend developer from Russia.</p>
+<p>I'm Evgeny, developer from Russia.</p>
 
 <h2>🔧 Technologies & Tools</h2>
 <p>
