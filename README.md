@@ -21,7 +21,7 @@
     <a href="https://leetcode.com/nodewalker/">
         <img alt="Leetcode" src="https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
     </a>
-    <a href="https://t.me/weavve">
+    <a href="https://t.me/nodewalkerr">
         <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
     </a>
 </p>
