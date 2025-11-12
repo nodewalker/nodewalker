@@ -1,37 +1,25 @@
-<h1>👋 Hey, welcome to my page!</h1>
+<h1 align="center">Hi 👋, I'm Smirnov Evgeny</h1>
+<h3 align="center">A fullstack node.js developer</h3>
 
-<p>I'm Evgeny, developer from Russia.</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nodewalker&label=Profile%20views&color=0e75b6&style=flat" alt="nodewalker" /> </p> -->
 
-<h2>🔧 Technologies & Tools</h2>
-<p>
-    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript" />
-    <img alt="React" src="https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react" />
-    <img alt="Express" src="https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=EXPRESS&logoColor=0FE30D" />
-    <img alt="Fastify" src="https://img.shields.io/badge/-FASTIFY-090909?style=for-the-badge&logo=fastify&logoColor=" />
-    <img alt="Nest" src="https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestjs&logoColor=e93333" />
-    <img alt="Python" src="https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python" />
-    <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=3C9AFF" />
+- 🔭 I’m currently working on [fake-store-api](https://github.com/nodewalker/fake-store-api)
+
+- 🌱 I’m currently learning **Vue.js**
+
+- 👨‍💻 All of my projects are available at [smirnov-portfolio.ru](smirnov-portfolio.ru)
+
+- 📫 How to reach me **nodewalker@yandex.com**
+
+<h3 align="left">You can find me here:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/nodewalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nodewalker" height="30" width="40" /></a>
 </p>
 
-<h2>Find me 🔍</h2>
-<p>
-    <a href="https://www.codewars.com/users/nodewalker">
-        <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=B1361E"/>
-    </a>
-    <a href="https://leetcode.com/nodewalker/">
-        <img alt="Leetcode" src="https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-    </a>
-    <a href="https://t.me/nodewalkerr">
-        <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
-    </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h2>Stats 📊</h2>
-<p>
-    <a href="https://www.codewars.com/users/nodewalker">
-        <img alt="Codewars-stats" src="https://github.r2v.ch/codewars?user=nodewalker&top_languages=true&name=true&theme=gradient"/>
-    </a>
-    <a href="https://leetcode.com/nodewalker/">
-        <img src="https://leetcard.jacoblin.cool/nodewalker?theme=dark&font=Maven%20Pro&ext=heatmap"/>
-    </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nodewalker&show_icons=true&locale=en&layout=compact" alt="nodewalker" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nodewalker&show_icons=true&locale=en" alt="nodewalker" /></p>
+
