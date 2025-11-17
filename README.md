@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [smirnov-portfolio.ru](smirnov-portfolio.ru)
+- 👨‍💻 All of my projects are available at [smirnov-portfolio.ru](https://smirnov-portfolio.ru?utm_source=link&utm_medium=github&utm_campaign=profile-readme)
 
 - 📫 How to reach me **nodewalker@yandex.com**
 
