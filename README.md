@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [fake-store-api](https://github.com/nodewalker/fake-store-api)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Go chi**
 
 - 👨‍💻 All of my projects are available at [smirnov-portfolio.ru](https://smirnov-portfolio.ru?utm_source=link&utm_medium=github&utm_campaign=profile-readme)
 
